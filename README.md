@@ -6,13 +6,13 @@ Sunucunuzun sohbetini canlandırın, oyuncular arası rekabeti kızıştırın! 
 # ✨ Eklenti Özellikleri
 🎮 **Gelişmiş Oyun Modları:** Hızlı yazma, karışık harfleri düzeltme, kelime tamamlama ve matematik işlemleriyle chat'i her an aktif tutun.
 
-🏆 **Akıllı İstatistik Menüsü:** Sadece 12. ve 14. slotlara odaklanan, veri yoksa "Skor Yok" yazan ve oyuncunun kendi kafasını/skorunu canlı gösteren profesyonel Top 5 sıralama arayüzü.
+🏆 **Akıllı İstatistik Menüsü:** En iyiler sıralam listesi tamamen rekabete şapka çıkarıyor. Oyuncular istediği gibi sıralamaya bakabilir hatta kendi skorunu bile görebilir.
 
 🎨 **Small Text Tasarımı:** Duyuruları Türkçe karakter uyumlu "Small Text" formatıyla ve milimetrik sohbet ortalama algoritmasıyla göndererek sunucunuza premium bir hava katın.
 
 🌍 **Dinamik Dil Desteği:** Hem oyun mesajları hem de GUI içerisindeki tüm yazılar lang_TR ve lang_EN dosyalarına bağlıdır. Tek tıkla tüm sistemi yerelleştirin.
 
-🛡️ **Envanter Güvenliği:** Gelişmiş koruma sistemi sayesinde oyuncular GUI içerisinden eşya alamaz. Tüm yönetim süreçleri sadece yetkili (admin) kadrosuna özeldir.
+🛡️ **Güvenlik:** Gelişmiş koruma sistemi sayesinde oyuncular asla admin komutlarına erişemez. Sadece ilgiil yetkisi var olan kiişler erişebilir.
 
 ⚡ **Asenkron Performans:** Skor hesaplamaları ve GUI işlemleri ana thread'i yormadan (Async) çalışır. En yoğun sunucularda bile TPS düşüşü veya lag yaşatmaz.
 
