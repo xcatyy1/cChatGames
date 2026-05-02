@@ -21,7 +21,7 @@ Sunucunuzun sohbetini canlandırın, oyuncular arası rekabeti kızıştırın! 
 # 📦 Kurulum
 Desteklenen Sürümler: 1.20.x
 Eklenti JDK 17 ve üstünde çalışmaktadır.
-Satın aldığınız cChatGames.jar dosyasını indirin.
+cChatGames.jar dosyasını indirin.
 Sunucunuzun /plugins klasörüne atın.
 
 Sunucuyu başlatın; config.yml, games.yml, gui.yml ve dil dosyaları üzerinden sisteminizi saniyeler içinde özelleştirin.
