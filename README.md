@@ -28,3 +28,6 @@ Sunucuyu başlatın; config.yml, games.yml, gui.yml ve dil dosyaları üzerinden
 ** **
 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu (Proprietary) bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
+** **
+<img width="1767" height="878" alt="cChatGames kapak" src="https://github.com/user-attachments/assets/9d67aeb5-e283-420b-84b8-812b5698888c" />
+
